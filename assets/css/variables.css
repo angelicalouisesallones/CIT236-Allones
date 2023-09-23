@@ -1,0 +1,21 @@
+/*-----------------------------------*\
+  #Variables.css
+\*-----------------------------------*/
+
+:root {
+  /*Colors*/
+   --battleship-gray: #878787;
+   --white:           #ffffff;
+   --dark-blue:       #010f29;
+   --blue:            #001233;
+   --coral-red:       #FF595A;
+   --beige:           #CAC0B3;
+
+  /**Typograpy*/
+  --fs-1: 36px;
+  --fs-2: 30px;
+  --fs-3: 24px;
+  --fs-4: 20px;
+  --fs-5: 18px;
+  --fs-6: 14px;
+}
